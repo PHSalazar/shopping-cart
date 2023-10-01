@@ -1,0 +1,16 @@
+.search-bar {
+  background: #fff;
+}
+.search__input {
+  padding: 8px;
+  border: none;
+  outline: none;
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+.search__button {
+  padding: 5px;
+  margin-left: 5px;
+  background: none;
+  outline: none;
+  border: none;
+}
