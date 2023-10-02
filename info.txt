@@ -1,0 +1,19 @@
+npx create-react-app .
+npm i react-icons
+npx eslint --init 3opção, 1 opção, react, no, browser
+
+
+configurar settings.js 9min40. Depois alterar eslint.json
+
+
+https://www.youtube.com/watch?v=HSAlJJI6K_A
+
+Obrigatoriedade das aspas duplas: eslint.json > rules
+jsx-quotes> prefer-double
+eol-last > error always
+
+
+
+Video 2 https://www.youtube.com/watch?v=gvYhFk3eazw
+Video 3 https://www.youtube.com/watch?v=Jb2-AqKI1s8
+Video 4 https://www.youtube.com/watch?v=PbnaIlnOsr8
